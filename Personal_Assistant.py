@@ -241,3 +241,6 @@ while True:
         ask_assistant(message, image_path=image.strip())
     else:
         ask_assistant(user_input)
+
+
+
